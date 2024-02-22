@@ -1,6 +1,6 @@
 ## Project Title: CodeX Beverage Company
 
-[Link to presentation](https://www.canva.com/design/DAF2eswQwlw/kAoOKXJNJdQEjsm0oiH3OQ/view?utm_content=DAF2eswQwlw&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+[Link to presentation](https://www.youtube.com/embed/az9FJg4o608?si=Q8uZGN2JZW0pp9ge)
 
 ## Project Short Info: 
 
