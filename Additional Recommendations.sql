@@ -1,5 +1,5 @@
-# 1. What should be the ideal price of our product?
-###As per the survey analysis, CodeX needs to be priced between 50-150 which is around 70% of our survey respondents’ preference
+1. What should be the ideal price of our product?
+## As per the survey analysis, CodeX needs to be priced between 50-150 which is around 70% of our survey respondents’ preference
 
 select
 	Price_range,
@@ -9,8 +9,8 @@ from fact_survey_responses
 group by Price_range
 order by respondent_pct desc;
 
-#2. Who should be our target audience, and why?
-#As per the survey analysis, athletes, college students, working professionals should be our target audience since they fall within the age group of 19-45 and also as per the ideal situation for energy drink consumption
+2. Who should be our target audience, and why?
+## As per the survey analysis, athletes, college students, working professionals should be our target audience since they fall within the age group of 19-45 and also as per the ideal situation for energy drink consumption
 
 select
 	Typical_consumption_situations,
