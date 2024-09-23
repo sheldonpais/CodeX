@@ -1,5 +1,5 @@
 # 1. What should be the ideal price of our product?
-# As per the survey analysis, CodeX needs to be priced between 50-150 which is around 70% of our survey respondents’ preference
+###As per the survey analysis, CodeX needs to be priced between 50-150 which is around 70% of our survey respondents’ preference
 
 select
 	Price_range,
